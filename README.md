@@ -1,4 +1,4 @@
-# 💀 [4SMx64] // Red Team Operator & Adversarial Researcher
+# 💀 [4SMx64] // Adversarial Researcher
 
 > **"Amateurs hack systems, professionals hack human systems and processes."**
 
